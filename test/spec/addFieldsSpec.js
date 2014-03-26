@@ -4,19 +4,17 @@
 
 //jasmin test code
 
-describe("add() function", function () {
+    describe("multiply() function", function () {
 
-    beforeEach(function() {
-       add.curreent = 0;
+        it("should  multiplication any numbers", function(){
+            expect( Number.multiply('2, 2' ) ).toEqual( 4 );
+        });
     });
 
     describe("When adding the numbers", function() {
-    it("should equal 3", function () {
-        expect( add(1, 2)).toEqual(3);
+        it("should equal 3", function () {
+            expect( add(1, 2)).toEqual(3);
+        });
+
     });
 
-    it("should equal 3.75", function(){
-        expect( add(1.75, 2) ).toEqual( 3.75 );
-    });
-    });
-});

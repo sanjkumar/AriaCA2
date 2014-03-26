@@ -4,7 +4,13 @@
 
 //jasmin test code
 
-describe("addFields(a, b) function", function () {
+describe("add() function", function () {
+
+    beforeEach(function() {
+       add.curreent = 0;
+    });
+
+    describe("When adding the numbers", function() {
     it("should equal 3", function () {
         expect( add(1, 2)).toEqual(3);
     });
@@ -12,8 +18,5 @@ describe("addFields(a, b) function", function () {
     it("should equal 3.75", function(){
         expect( add(1.75, 2) ).toEqual( 3.75 );
     });
-
-    it("should NOT equal '3' as a String", function () {
-        expect( add(1, 2)).not.toBe( "3" );
     });
 });

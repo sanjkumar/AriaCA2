@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9f69b78-c4b3-4878-a83a-e0dc8d5b1369" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/js/addvalue.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test/js/addvalue.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/SpecRunner.html" afterPath="$PROJECT_DIR$/test/SpecRunner.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/addFields.js" afterPath="$PROJECT_DIR$/js/addFields.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js/addFields.js" afterPath="$PROJECT_DIR$/test/js/addFields.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/spec/addFieldsSpec.js" afterPath="$PROJECT_DIR$/test/spec/addFieldsSpec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home.html" afterPath="$PROJECT_DIR$/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AriaCA2.iws" />
@@ -72,7 +76,7 @@
       <file leaf-file-name="SpecRunner.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="716" selection-end="716" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="540">
+            <state line="10" column="53" selection-start="401" selection-end="401" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="525">
               <folding />
             </state>
           </provider>
@@ -81,19 +85,10 @@
       <file leaf-file-name="addFields.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/addFields.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="1" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+            <state line="37" column="1" selection-start="0" selection-end="907" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
               <folding>
-                <element signature="n#!!doc;n#add#0" expanded="false" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="addFields.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/js/addFields.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="1" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -101,7 +96,7 @@
       <file leaf-file-name="addFieldsSpec.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/spec/addFieldsSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="39" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+            <state line="18" column="20" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
               <folding>
                 <element signature="e#0#44#0" expanded="false" />
               </folding>
@@ -109,20 +104,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/home.html">
+      <file leaf-file-name="addFields.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/js/addFields.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="11" selection-start="1018" selection-end="1018" vertical-scroll-proportion="1.125" vertical-offset="357" max-vertical-offset="1275">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
-              <folding />
+            <state line="8" column="38" selection-start="213" selection-end="213" vertical-scroll-proportion="0.18099548" vertical-offset="0" max-vertical-offset="675">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,17 +139,17 @@
         <option value="$PROJECT_DIR$/js/calculator.js" />
         <option value="$PROJECT_DIR$/test/spec/calculator.js" />
         <option value="$PROJECT_DIR$/test/spec/addFields.js" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/test/SpecRunner.html" />
         <option value="$PROJECT_DIR$/test/spec/addFieldsSpec.js" />
-        <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/js/addFields.js" />
+        <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/test/js/addFields.js" />
-        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="28" />
     <option name="y" value="22" />
     <option name="width" value="793" />
     <option name="height" value="760" />
@@ -210,6 +198,70 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="AriaCA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AriaCA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AriaCA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AriaCA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AriaCA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AriaCA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AriaCA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AriaCA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AriaCA2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -476,7 +528,7 @@
       <changelist id="e9f69b78-c4b3-4878-a83a-e0dc8d5b1369" name="Default" comment="" />
       <created>1395858281459</created>
       <updated>1395858281459</updated>
-      <workItem from="1395858282782" duration="4529000" />
+      <workItem from="1395858282782" duration="6841000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1395858353254</created>
@@ -498,10 +550,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4529000" />
+    <option name="totallyTimeSpent" value="6841000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="22" width="793" height="760" extended-state="0" />
+    <frame x="28" y="22" width="793" height="760" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -596,49 +648,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/spec/addFieldsSpec.js">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="39" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
+        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="716" selection-end="716" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/addFields.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <folding>
-            <element signature="n#!!doc;n#add#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/js/addFields.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+        <state line="10" column="53" selection-start="401" selection-end="401" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="525">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="11" selection-start="1018" selection-end="1018" vertical-scroll-proportion="1.125" vertical-offset="357" max-vertical-offset="1275">
+        <state line="65" column="27" selection-start="2663" selection-end="2663" vertical-scroll-proportion="0.9004975" vertical-offset="432" max-vertical-offset="1425">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/js/addFields.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="35" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="640">
-          <folding />
+        <state line="37" column="1" selection-start="0" selection-end="907" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/spec/addFieldsSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="20" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/js/addFields.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="38" selection-start="213" selection-end="213" vertical-scroll-proportion="0.18099548" vertical-offset="0" max-vertical-offset="675">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

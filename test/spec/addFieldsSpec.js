@@ -4,7 +4,7 @@
 
 //jasmin test code
 
-    describe("multiply() function", function () {
+    describe("Calculator() function", function () {
 
         it("should  multiplication any numbers", function(){
             expect( Number.multiply('2, 2' ) ).toEqual( 4 );
